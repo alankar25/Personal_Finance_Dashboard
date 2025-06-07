@@ -44,13 +44,17 @@ git clone https://github.com/alankar25/Personal_Finance_Dashboard.git
 cd Personal_Finance_Dashboard
 ```
 2. **Start the backend**
+```bash
 cd server
 npm install
 npm run dev
+```
 
-3. **Start the frontend**
+4. **Start the frontend**
+```bash
 cd ../client
 npm install
+```
 npm start
 
 
