@@ -11,6 +11,12 @@ A full-stack personal finance management application to help users track their t
 -  **Secure Authentication**: JWT-based user login and session management.
 -  **Fast & Scalable**: Optimized REST APIs ensure smooth data flow between frontend and backend.
 
+![image](https://github.com/user-attachments/assets/71981bcd-1378-4d98-b639-41e0d1b355e8)
+![image](https://github.com/user-attachments/assets/f5c140e6-7d69-413a-955f-9a1b16af7c4e)
+![image](https://github.com/user-attachments/assets/245a3ca2-6823-4acc-91af-726eef880812)
+![image](https://github.com/user-attachments/assets/f67e6b90-86a1-4f3c-92e6-6a5d28f1f7de)
+
+
 ## 🛠 Tech Stack
 
 ### Frontend
