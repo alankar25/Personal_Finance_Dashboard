@@ -34,12 +34,8 @@ A full-stack personal finance management application to help users track their t
   
 ##  Folder Structure
 ```bash
-/client # React Frontend
-/server # Express Backend
-└── models
-└── routes
-└── controllers
-└── middleware
+/backend # Express Backend
+/frontend # React Frontend
 ```
 
 
@@ -53,14 +49,14 @@ cd Personal_Finance_Dashboard
 ```
 2. **Start the backend**
 ```bash
-cd server
+cd backend
 npm install
 npm run dev
 ```
 
 4. **Start the frontend**
 ```bash
-cd ../client
+cd ../frontend
 npm install
 npm start
 ```
