@@ -27,12 +27,14 @@ A full-stack personal finance management application to help users track their t
 - JWT for authentication
   
 ##  Folder Structure
+```bash
 /client # React Frontend
 /server # Express Backend
 └── models
 └── routes
 └── controllers
 └── middleware
+```
 
 
 ##  Installation
